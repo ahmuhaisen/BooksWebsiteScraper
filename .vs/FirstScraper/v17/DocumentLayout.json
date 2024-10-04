@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmad Muhaisen\\OneDrive\\Desktop\\Scrapping\\FirstScraper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43D60B4D-594A-49FB-89AE-D37F470A8258}|FirstScraper.csproj|c:\\users\\ahmad muhaisen\\onedrive\\desktop\\scrapping\\firstscraper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D60B4D-594A-49FB-89AE-D37F470A8258}|FirstScraper.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D60B4D-594A-49FB-89AE-D37F470A8258}|FirstScraper.csproj|c:\\users\\ahmad muhaisen\\onedrive\\desktop\\scrapping\\firstscraper\\scraperutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D60B4D-594A-49FB-89AE-D37F470A8258}|FirstScraper.csproj|solutionrelative:scraperutilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D60B4D-594A-49FB-89AE-D37F470A8258}|FirstScraper.csproj|c:\\users\\ahmad muhaisen\\onedrive\\desktop\\scrapping\\firstscraper\\scrapers\\bookscraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D60B4D-594A-49FB-89AE-D37F470A8258}|FirstScraper.csproj|solutionrelative:scrapers\\bookscraper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookScraper.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad Muhaisen\\OneDrive\\Desktop\\Scrapping\\FirstScraper\\Scrapers\\BookScraper.cs",
+              "RelativeDocumentMoniker": "Scrapers\\BookScraper.cs",
+              "ToolTip": "C:\\Users\\Ahmad Muhaisen\\OneDrive\\Desktop\\Scrapping\\FirstScraper\\Scrapers\\BookScraper.cs",
+              "RelativeToolTip": "Scrapers\\BookScraper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T16:58:17.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScraperUtilities.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad Muhaisen\\OneDrive\\Desktop\\Scrapping\\FirstScraper\\ScraperUtilities.cs",
+              "RelativeDocumentMoniker": "ScraperUtilities.cs",
+              "ToolTip": "C:\\Users\\Ahmad Muhaisen\\OneDrive\\Desktop\\Scrapping\\FirstScraper\\ScraperUtilities.cs",
+              "RelativeToolTip": "ScraperUtilities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T16:55:26.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad Muhaisen\\OneDrive\\Desktop\\Scrapping\\FirstScraper\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ahmad Muhaisen\\OneDrive\\Desktop\\Scrapping\\FirstScraper\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T16:38:09.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

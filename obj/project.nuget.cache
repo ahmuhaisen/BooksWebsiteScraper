@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oMRg9fBa68Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ahmad Muhaisen\\OneDrive\\Desktop\\Scrapping\\FirstScraper\\FirstScraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ahmad Muhaisen\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512",
+    "C:\\Users\\Ahmad Muhaisen\\.nuget\\packages\\htmlagilitypack\\1.11.67\\htmlagilitypack.1.11.67.nupkg.sha512"
+  ],
+  "logs": []
+}
